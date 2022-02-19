@@ -7,4 +7,4 @@ The required data to be scraped were the exams whose title contains (PT0-001) fr
 
 i created a spreadsheet containing the test's (page number , title , link)
 
-![Screenshot from 2022-02-12 03-22-47](https://user-images.githubusercontent.com/99041001/154752560-2a7f2c7f-9b86-49d6-bc34-f97e74b418c9.png)
+![Screenshot from 2022-02-19 03-14-01](https://user-images.githubusercontent.com/99041001/154780053-bd14295e-503c-49c1-9937-912a6f195ecc.png)
